@@ -1,13 +1,7 @@
 # 🏦 SpringBank - Account Microservice
 
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-brightgreen?style=for-the-badge&logo=springboot)
-![Project Reactor](https://img.shields.io/badge/Project%20Reactor-Reactive-blue?style=for-the-badge&logo=reactivex)
-![Docker](https://img.shields.io/badge/Docker-Enabled-blue?style=for-the-badge&logo=docker)
-
 **SpringBank** es un ecosistema financiero basado en **Microservicios Reactivos**. Este repositorio contiene el `account-service`, el núcleo encargado de la gestión de cuentas bancarias y saldos en tiempo real, diseñado para soportar alta disponibilidad y baja latencia.
 
-[Image of Reactive Microservices Architecture with Spring WebFlux and R2DBC]
 
 ---
 
